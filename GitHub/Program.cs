@@ -14,13 +14,15 @@ namespace example1
             Console.WriteLine("Enter a value for b: ");
             b = Int32.Parse(Console.ReadLine());
             
-            Console.WriteLine($"Subtracting {a} - {b} = {AddNumbers (a,b)}");
+ multiplicationBranch
+            Console.WriteLine($"Processing the multiplication of: {a} times {b} = {multiplyNumbers (a,b)}");
+ master
         }
         
-        public static int AddNumbers(int a, int b)
+        public static int multiplyNumbers(int a, int b)
         {
 
-            return a - b;
+            return a * b;
         }
     }
 }

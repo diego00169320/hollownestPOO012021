@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cuWqVFOTGEnOQS8VgDzt+u7l4BvOl+THrlK3QxN7q1Rb8Y8niE93qdL3Zd7aJJpwvj6KYYk8FOPzD6jGd5GzYw==",
+ multiplicationBranch
+  "dgSpecHash": "HrSgph1joM9bY8I3ohZ9FIXwIjRdVHrAz9wq/JP6nFubLxzAzXfjR2X2FJ1f3MuqCyeiQRXOhingjvRF+03VFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ariel M\\Desktop\\POO\\Tareas\\Tarea git\\hollownest_POO012021\\GitHub\\GitHub.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\GitHub\\GitHub.csproj",
+ master
   "expectedPackageFiles": [],
   "logs": []
 }
