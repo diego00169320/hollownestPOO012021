@@ -14,7 +14,9 @@ namespace example1
             Console.WriteLine("Enter a value for b: ");
             b = Int32.Parse(Console.ReadLine());
             
+ multiplicationBranch
             Console.WriteLine($"Processing the multiplication of: {a} times {b} = {multiplyNumbers (a,b)}");
+ master
         }
         
         public static int multiplyNumbers(int a, int b)
