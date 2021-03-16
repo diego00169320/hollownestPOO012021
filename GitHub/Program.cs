@@ -14,7 +14,7 @@ namespace example1
             Console.WriteLine("Enter a value for b: ");
             b = Int32.Parse(Console.ReadLine());
             
-            Console.WriteLine($"Adding {a} + {b} {AddNumbers (a,b)}");
+            Console.WriteLine($"Subtracting {a} - {b} = {AddNumbers (a,b)}");
         }
         
         public static int AddNumbers(int a, int b)

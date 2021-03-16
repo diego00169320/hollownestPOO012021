@@ -1,0 +1,16 @@
+C:\Users\Ariel M\Desktop\POO\Tareas\Tarea git\hollownest_POO012021\GitHub\bin\HPD\Debug\net5.0\GitHub.exe
+C:\Users\Ariel M\Desktop\POO\Tareas\Tarea git\hollownest_POO012021\GitHub\bin\HPD\Debug\net5.0\GitHub.deps.json
+C:\Users\Ariel M\Desktop\POO\Tareas\Tarea git\hollownest_POO012021\GitHub\bin\HPD\Debug\net5.0\GitHub.runtimeconfig.json
+C:\Users\Ariel M\Desktop\POO\Tareas\Tarea git\hollownest_POO012021\GitHub\bin\HPD\Debug\net5.0\GitHub.runtimeconfig.dev.json
+C:\Users\Ariel M\Desktop\POO\Tareas\Tarea git\hollownest_POO012021\GitHub\bin\HPD\Debug\net5.0\GitHub.dll
+C:\Users\Ariel M\Desktop\POO\Tareas\Tarea git\hollownest_POO012021\GitHub\bin\HPD\Debug\net5.0\ref\GitHub.dll
+C:\Users\Ariel M\Desktop\POO\Tareas\Tarea git\hollownest_POO012021\GitHub\bin\HPD\Debug\net5.0\GitHub.pdb
+C:\Users\Ariel M\Desktop\POO\Tareas\Tarea git\hollownest_POO012021\GitHub\obj\HPD\Debug\net5.0\GitHub.csprojAssemblyReference.cache
+C:\Users\Ariel M\Desktop\POO\Tareas\Tarea git\hollownest_POO012021\GitHub\obj\HPD\Debug\net5.0\GitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel M\Desktop\POO\Tareas\Tarea git\hollownest_POO012021\GitHub\obj\HPD\Debug\net5.0\GitHub.AssemblyInfoInputs.cache
+C:\Users\Ariel M\Desktop\POO\Tareas\Tarea git\hollownest_POO012021\GitHub\obj\HPD\Debug\net5.0\GitHub.AssemblyInfo.cs
+C:\Users\Ariel M\Desktop\POO\Tareas\Tarea git\hollownest_POO012021\GitHub\obj\HPD\Debug\net5.0\GitHub.csproj.CoreCompileInputs.cache
+C:\Users\Ariel M\Desktop\POO\Tareas\Tarea git\hollownest_POO012021\GitHub\obj\HPD\Debug\net5.0\GitHub.dll
+C:\Users\Ariel M\Desktop\POO\Tareas\Tarea git\hollownest_POO012021\GitHub\obj\HPD\Debug\net5.0\ref\GitHub.dll
+C:\Users\Ariel M\Desktop\POO\Tareas\Tarea git\hollownest_POO012021\GitHub\obj\HPD\Debug\net5.0\GitHub.pdb
+C:\Users\Ariel M\Desktop\POO\Tareas\Tarea git\hollownest_POO012021\GitHub\obj\HPD\Debug\net5.0\GitHub.genruntimeconfig.cache
